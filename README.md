@@ -8,5 +8,8 @@ The primary objective of this project is to develop an AI-powered healthcare ass
 •	Improve patient satisfaction through timely, automated assistance.
 •	Support telemedicine platforms by enhancing the efficiency of healthcare delivery.
 
+Software Requirements:
+•	Jupyter/Python installed. 
+•	Required libraries: Huggingface, sklearn, tensorflow, streamlit, transformers, torch and nltk.
 
-
+The development of a Healthcare Assistant chatbot designed to assist users with basic health queries, providing valuable information without the need for direct human intervention. The chatbot leverages advanced Natural Language Processing (NLP) techniques, along with Streamlit, to create an interactive and user-friendly interface. By automating responses to common health inquiries, such as symptoms, first aid tips, and appointment scheduling, the chatbot offers an efficient and reliable solution for users seeking immediate healthcare assistance.
